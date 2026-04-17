@@ -1,0 +1,6 @@
+node_modules/
+Love/
+npm-debug.log
+.env
+*.log
+.cache/
